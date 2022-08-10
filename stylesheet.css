@@ -1,0 +1,20 @@
+body{ background-color:lightskyblue}
+h1{color:blue; font-family:fantasy; font-size: 40px;}
+button{color: blue;
+     font-size: medium;
+     text-decoration: none;
+    }
+a:visited{
+    color:blue;
+    text-decoration: none;
+}
+a:hover{
+    background-color: royalblue;
+ }
+ p{color:whitesmoke; font-size: 30px; border: 20px solid deepskyblue; padding: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
+ body{background-image: url("images/pic_trulli.jpg");
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    background-size: 100% 100%;
+}
