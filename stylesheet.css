@@ -1,5 +1,5 @@
-body{ background-color:lightskyblue}
-h1{color:blue; font-family:fantasy; font-size: 40px;}
+body{ background-color:lightskyblue; padding: 10px;}
+h1{color:whitesmoke; font-family:fantasy; font-size: 40px; padding: 10px;}
 button{color: blue;
      font-size: medium;
      text-decoration: none;
@@ -9,11 +9,11 @@ a:visited{
     text-decoration: none;
 }
 a:hover{
-    background-color: royalblue;
+    background-color: whitesmoke;
  }
- p{color:whitesmoke; font-size: 30px; border: 20px solid deepskyblue; padding: 20px;
+ p{color:whitesmoke; font-size: 30px; padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
- body{background-image: url("images/pic_trulli.jpg");
+ body{background-image: url("images/stack-books-with-glasses-wooden-desk.jpg");
     background-repeat: no-repeat;
     background-attachment:fixed;
     background-size: 100% 100%;
