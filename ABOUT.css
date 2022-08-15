@@ -22,4 +22,7 @@ a:hover{
     background-attachment:fixed;
     background-size: 100% 100%;
 }
-
+.shapner{
+    color:whitesmoke; font-size: 30px; padding: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}

@@ -22,4 +22,9 @@ a:hover{
     background-attachment:fixed;
     background-size: 100% 100%;
 }
-
+.book{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
